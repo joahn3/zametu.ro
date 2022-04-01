@@ -76,11 +76,13 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Zametu.ro | Imobiliare altfel în Popești-Leordeni.",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/zametu.ro-logo.svg"
       },
       "components": [
         {
@@ -1914,9 +1916,10 @@
     },
     "calculator-taxe-notariale-vanzare-cumparare.html": {
       "settings": {
-        "title": "Calculator taxe notariale contracte vânzare-cumpărare",
+        "title": "Zametu.ro | Calculator taxe notariale contracte vânzare-cumpărare",
         "order": 1,
-        "meta_descr": ""
+        "meta_descr": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/zametu.ro-logo.svg"
       },
       "components": [
         {
